@@ -2,7 +2,6 @@
 
 定期爬污染分布图，保存并展示
 
-<div align=center>
 
 ![实时动画](images/animation.gif)
 实时动画
@@ -11,7 +10,6 @@
 ![静态图](images/2016-12-29 19:00-air.png)
 静态图
 
-</div>
 
 ## 环境依赖
 
